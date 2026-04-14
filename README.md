@@ -60,6 +60,7 @@ Entities and Aggregations
 
 
 graph TD
+
     subgraph STACK [Stack]
         v_animal1[animal1]
         v_dono1[dono1]
